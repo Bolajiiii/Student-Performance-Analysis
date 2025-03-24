@@ -1,0 +1,7 @@
+Group A - White - British
+Group B - White - Irish
+Group C - White - Any other White background
+Group D - Mixed - White and Black Caribbean
+Group E - Mixed - White and Black African
+Group F - Mixed - White and Asian
+Group G - Mixed - Any other mixed background
